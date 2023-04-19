@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @MaycoonOliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MaycoonOliveira/MaycoonOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, é um prazer ter você em meu perfil. 
+Atualmente trabalho como desenvolvedor front-end junior em Angular, utilizando git e svn.
+Tenho pequenos projetos realizados mas não publiquei no git.  
+Cursando Analise e Desenvolvimento de Sistemas. 
+Estudando em paralelo Angular e sistemas de versionamento git. 
